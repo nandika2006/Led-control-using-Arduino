@@ -1,3 +1,6 @@
+**NAME:** NANDIKA S
+**REG-NO:** 24010030
+
 # Led-control-using-Arduino
 
 ## AIM
@@ -58,9 +61,13 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![image](https://github.com/user-attachments/assets/86867495-e268-44c1-9f53-689f0d90f37d)
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/be55116b-4a0e-4450-9081-5fb0c7950dd6)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/86b96938-e9a3-4d23-aa84-106d39cc9928)
 
 ## RESULT
+Thus the LED control using an Arduino microcontroller and a push button is executed successfully.
